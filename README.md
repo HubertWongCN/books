@@ -1,2 +1,2 @@
-# bookd
+# books
 电子书收集
